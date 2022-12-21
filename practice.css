@@ -1,0 +1,6 @@
+.rbt {
+    background-image: linear-gradient(red, yellow);
+}
+.rbt:hover{
+    background-image: linear-gradient(yellow, red);
+}
